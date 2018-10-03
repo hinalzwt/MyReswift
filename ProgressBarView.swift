@@ -52,7 +52,7 @@ class ProgressBarView: UIView {
         
         self.layer.addSublayer(shapeLayer)
         self.layer.addSublayer(progressLayer)
-        print("Kevin")
+        print("Kevin Mac")
     }
     
     private func createCirclePath()
